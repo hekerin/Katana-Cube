@@ -10,6 +10,7 @@ A game about smashing cubes.
 [![Run on Repl.it](https://repl.it/badge/github/RFIunknown/Katana-Cube)](https://repl.it/github/RFIunknown/Katana-Cube)
 ```
 npm install
+npm install -g npm
 npm start
 ```
  [![MillerTime](https://github.com/MilllerTime.png?size=100)](https://github.com/MilllerTime)  | [![RFIunknown](https://github.com/RFIunknown.png?size=100)](https://github.com/RFIunknown)
